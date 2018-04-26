@@ -1,0 +1,101 @@
+[
+    {
+        "browser": "Edge",
+        "browser_version": "16.0",
+        "os": "Windows",
+        "os_version": "10",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "Edge",
+        "browser_version": "15.0",
+        "os": "Windows",
+        "os_version": "10",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "Edge",
+        "browser_version": "14.0",
+        "os": "Windows",
+        "os_version": "10",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "11.0",
+        "os": "Windows",
+        "os_version": "8.1",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "10.0",
+        "os": "Windows",
+        "os_version": "8",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "11.0",
+        "os": "Windows",
+        "os_version": "7",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName" : ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "10.0",
+        "os": "Windows",
+        "os_version": "7",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "9.0",
+        "os": "Windows",
+        "os_version": "7",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "8.0",
+        "os": "Windows",
+        "os_version": "7",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "7.0",
+        "os": "Windows",
+        "os_version": "XP",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    },
+    {
+        "browser": "IE",
+        "browser_version": "6.0",
+        "os": "Windows",
+        "os_version": "XP",
+        "resolution": "1024x768",
+        "build": "AutoTst",
+        "browserName": ""
+    }
+]

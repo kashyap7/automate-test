@@ -1,0 +1,11 @@
+[
+    {
+        "os": "OS X",
+        "os_version": "Mavericks",
+        "browser": "Opera",
+        "browser_version": "52.0 dev",
+        "device": null,
+        "url": "google.com",
+        "build": "AutoTst"
+    }
+]
